@@ -37,6 +37,15 @@
 	background-color: lightgray;
 }
 
+.dis{
+	position: absolute;
+	left: 90%; 
+	top: 30%; 
+	width: 20vw;
+}
+
+
+
 @media (max-width:767px){
 
 	.ul li{
@@ -46,13 +55,6 @@
 		height: 10vh;
 	}
 
-}
-
-.dis{
-	position: absolute;
-	left: 90%; 
-	top: 30%; 
-	width: 20vw;
 }
 
 
