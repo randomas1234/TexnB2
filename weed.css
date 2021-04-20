@@ -48,6 +48,13 @@
 
 }
 
+.dis{
+	position: absolute;
+	left: 40%; 
+	top: 30%; 
+	width: 20vw;
+}
+
 
 @media (max-width:1200px){
 
@@ -77,12 +84,6 @@
 	}
 }
 
-.dis{
-	position: absolute;
-	left: 40%; 
-	top: 30%; 
-	width: 20vw;
-}
 
 
 @media (max-height: 650px){
@@ -91,11 +92,11 @@
 		border: 0px solid white;
 	}
 }
-}
 
 @media (max-height:600px){
 	.dis{
 		position: absolute;
 		top:50%;
 	}
+}
 }
